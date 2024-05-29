@@ -9,7 +9,7 @@
 - **Other Tools:** Git, Jupyter, Excel
 - 📫 How to reach me
 - **Email:** [1994rrchougule@gmail.com]
-- **LinkedIn:** [linkedin.com/in/rohit-chougule-9028547152rrc]
+- **LinkedIn:** [[linkedin.com/in/rohit-chougule-9028547152rrc](https://www.linkedin.com/in/rohit-chougule-9028547152rrc/)]
 - **GitHub:** [[Your GitHub Profile](https://github.com/Rohit1Chougule)]
 - 😄 Pronouns: He / Him
 
