@@ -1,12 +1,12 @@
 - 👋 Hi there, I'm @Rohit Chougule
-- 👀 I'm a Data Analyst with a passion for turning data into actionable insights. With 2 plus years of experience in data analysis, I specialize in data visualization, statistical analysis, machine learning.
+- 👀 I'm a Sr Data Associate with a passion for turning data into actionable insights Appying favourable Models to predict good outcome with highest accuracy . Carring 3 plus years of experience in Data Sciencce, data analytics, statistics , Algorithm . I have specialized in  statistical analysis, machine learning, Deep learning, NLP, AI.
 - ## Skills
-- **Programming Languages:** Python, R, SQL
+- **Programming Languages:** Python, SQL
 - **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn
 - **Machine Learning:** Scikit-learn, TensorFlow, Keras
 - **Data Processing:** Pandas, NumPy, SQL
 - **Databases:** MySQL
-- **Other Tools:** Git, Jupyter, Excel
+- **Other Tools:** Git, Jupyter, Excel, Visual Code Editor (VS code), _phpmyAdmin_, xampp GUI
 - 📫 How to reach me
 - **Email:** [1994rrchougule@gmail.com]
 - **LinkedIn:** [[linkedin.com/in/rohit-chougule-9028547152rrc](https://www.linkedin.com/in/rohit-chougule-9028547152rrc/)]
